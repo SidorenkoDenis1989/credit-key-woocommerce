@@ -2,8 +2,8 @@
 /*
  * Plugin Name: Credit Key Payment Gateway
  * Description: Enable your customer to pay for your products through Credit Key.
- * Author: Onepix
- * Author URI: https://onepix.net
+ * Author: Denis
+ * Author URI: https://www.facebook.com/sidorenko.denis100689
  * Version: 1.0.0
  */
 
